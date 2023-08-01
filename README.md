@@ -1,9 +1,7 @@
-[![MasterHead](https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47jmlax33xc84kx1xy5up9yg6smjd2pnk2gzr2l3ll&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
 <h1 align="center">Hi 👋, I'm Shubham Santram Saptasagare</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3UyNnA3enM3eG9nZnE2d2prdDliNnRqMTRlem92MHIyN3IxZHRvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3UyNnA3enM3eG9nZnE2d2prdDliNnRqMTRlem92MHIyN3IxZHRvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham1213s&label=Profile%20views&color=0e75b6&style=flat" alt="shubham1213s" /> </p>
 
